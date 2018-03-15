@@ -2,7 +2,7 @@
 
 BitTracker tracks the price of Bitcoin.
 
-![BitTracker](images/BitTracker.png) 
+![BitTracker](BitTracker.png) 
 
 ## Built With
 
