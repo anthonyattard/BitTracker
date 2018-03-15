@@ -2,6 +2,8 @@
 
 BitTracker tracks the price of Bitcoin.
 
+![BitTracker](images/BitTracker.png) 
+
 ## Built With
 
 * [React](https://reactjs.org/) - A JavaScript library for building user interfaces
