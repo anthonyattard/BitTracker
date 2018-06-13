@@ -1,9 +1,8 @@
 {
-  "name": "exercise-1-create-your-first-react-component",
+  "name": "bittracker",
   "version": "1.0.0",
-  "description": "Introduction to React and Components",
+  "description": "Track the value of Bitcoin",
   "keywords": [],
-  "homepage": "https://codesandbox.io/s/new",
   "main": "src/index.js",
   "dependencies": {
     "react": "16.2.0",
